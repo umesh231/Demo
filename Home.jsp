@@ -48,34 +48,5 @@
 </table>
 </div>
 
-<script>
-function myFunction() {
- 
-	var filter = document.getElementById('myInput').value.toUpperCase();
-	
-       console.log('hello');
-	
-	/*var myTable = document.getElementById('myTable');
-	
-	var tr = myTable.getElementByTagName('tr');
-	
-	for (var  i=0; i<tr.length; i++){
-	var td = tr[i].getElementByTagName('td')[0];
-	
-	if(td){
-		var textvalue = td.textContent || td.innerHTML;
-		
-		if(textvalue.toUpperCase().indexof(filter) > -1){
-			tr[i].style.display="";
-			else{
-				tr[i].style.display="None";
-			}
-		}
-	}
-	}*/
-	}
-	
-</script>
-
 </body>
 </html>
