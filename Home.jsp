@@ -16,7 +16,7 @@
  
 <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
  
- <a class="navbar-brand" href="Student">  Add Student</a>
+ <a class="navbar-brand" href="Student">  AddStudent</a>
   <form class="form-inline">
     <div class="input-group rounded ">
           <input type="search" class="form-control rounded"  id="myInput" onkeyup="myFunction()" placeholder="Search" aria-label="Search"
